@@ -17,7 +17,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 :root {
   --background-color: #f7fbfc;
   --main-font: Open Sans, sans-serif;
-  --main-font-size: 40px;
+  --main-font-size: 36px;
   --main-color: #333;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
@@ -50,7 +50,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal {
   font-family: "Open Sans", sans-serif;
-  font-size: 40px;
+  font-size: 36px;
   font-weight: normal;
   color: #333; }
 
@@ -83,12 +83,11 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   font-family: "Quicksand", sans-serif;
   font-weight: normal;
   line-height: 1.2;
-  letter-spacing: -0.08em;
   text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3.77em; }
+  font-size: 3.25em; }
 
 .reveal h2 {
   font-size: 2.11em; }
